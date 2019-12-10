@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="aes_enc:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/aes_enc_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="aes_enc/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
